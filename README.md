@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Happy
 I am deeply interested in Web development, Data Analytics, Algorithms.
 
-🌱 I’m currently learning Sass
+🌱 I’m currently learning React
 
 👯 I’m looking to collaborate on github
 
