@@ -5,7 +5,7 @@ I am deeply interested in Web development, Data Analytics, Algorithms.
 
 👯 I’m looking to collaborate on github
 
-📫 How to reach me: [HackeRank - @poddarsayan22](https://www.hackerrank.com/dashboard)
+📫 How to reach me: 
 Mail - psayan19@gmail.com
 
 😄 Pronouns: He/Him
